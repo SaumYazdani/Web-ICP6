@@ -1,1 +1,1 @@
-# Web-ICP6
+For this ICP we were asked to create an Angular application that will find restaurants near a given location using Foursquare API, and also recipes for a given food using EDAMAM API. The code was written in WebStorm using Angular and HTTP components.
