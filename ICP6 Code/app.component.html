@@ -1,0 +1,20 @@
+<div class = all>
+<div class=title>
+<h1> {{title}} </h1>
+</div>
+<div class = foodbar>
+  <input type = "text" #foodtype placeholder="Enter Any food!"/>
+  </div>
+<div class=  locationbar>
+  <input type = "text" #location placeholder="Enter A location!"/>
+</div>
+  <div class = searchbutton>
+    <button (click) = "search(foodtype.value,location.value);"> Search </button>
+  </div>
+<div class = locations>
+  Locations
+</div>
+<div class = recipe>
+  Recipe
+</div>
+</div>

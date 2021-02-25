@@ -1,0 +1,38 @@
+.locations{
+  border: 2px solid blue;
+  font-size: 20px;
+ height:30%;
+}
+.recipe{
+  border: 2px solid blue;
+  height: 30%;
+  font-size: 20px;
+}
+.title{
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
+.locationbar{
+  color: blue;
+  text-align:center;
+  padding: 5px;
+}
+.foodbar{
+  color: blue;
+  text-align:center;
+  padding: 5px;
+}
+.searchbutton{
+  text-align: center;
+  padding: 20px;
+}
+.all{
+  background-color: orange;
+  height: 850px;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  left: 475px;
+  padding: 15px;
+}
